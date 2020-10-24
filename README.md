@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/web-programming-python-django-udemy-studies.svg)](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/web-programming-python-django-udemy-studies)
+
 # Web programming studies with Python and Django
 
 This repository is for me to date my studies on Python, Django guiding me behind the classes of instructor **Geek University** on the **Udemy** teaching platform at the link below:
